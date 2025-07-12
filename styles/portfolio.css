@@ -156,3 +156,37 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+/*Footer Styles*/
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+footer column{
+    width: 50%;
+
+}
+footer input{
+    height: 65px;
+    width: 465px;
+    border-radius: 5px;
+    background-color: white;
+    color: #757575;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    display: block;
+}
+footer textarea{
+    height: 180px;
+    width: 465px;
+    border-radius: 5px;
+    background-color: white;
+    color: #757575;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    display: block;
+}
+
+
